@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-14T22:57:58.357Z
-Commit: Introduce real-time notifications
+Timestamp: 2026-03-14T22:58:04.287Z
+Commit: Fix broken links in documentation
